@@ -6,7 +6,7 @@ public class nudes : MonoBehaviour {
     private MeshRenderer rend;
 
     private GameObject kula;
-    
+    public Vector3 positions;
     public Color HoveColor;
     private Color nColor;
     private void Start()
@@ -21,7 +21,9 @@ public class nudes : MonoBehaviour {
             Debug.Log("Не ствава брат");
             return;
         }
-          
+        GameObject kulazastroene = BuildManager.instance.Zastoene();
+        kula = (GameObject)Instantiate(kulazastroene, transform.position + positions, transform.rotation);
+
     }
     private void OnMouseEnter()
     {

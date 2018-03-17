@@ -285,8 +285,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BuilderManager.cs" />
+    <Compile Include="Assets\Scripts\BuildManager.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\enemy.cs" />
-    <Compile Include="Assets\Scripts\nodes.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviorScript.cs" />
+    <Compile Include="Assets\Scripts\nudes.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\theWAE.cs" />
     <Compile Include="Assets\Scripts\Wavespawner.cs" />

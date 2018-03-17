@@ -14,11 +14,17 @@ public class Wavespawner : MonoBehaviour {
 
     void Update()
     {
+        
         if (countdown <= 0f)
         {
+            if (waveIndex > 3)
+            {
+                timeBetweenWaves = timeBetweenWaves = 30;
+            }
             StartCoroutine(Spawnwave());
             countdown = timeBetweenWaves;
         }
+        
         countdown -= Time.deltaTime;
         waveCountDownText.text = Mathf.Round(countdown).ToString();
 
