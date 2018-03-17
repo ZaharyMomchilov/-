@@ -286,6 +286,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\enemy.cs" />
+    <Compile Include="Assets\Scripts\nodes.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\theWAE.cs" />
     <Compile Include="Assets\Scripts\Wavespawner.cs" />
   </ItemGroup>
