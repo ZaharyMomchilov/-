@@ -1,0 +1,122 @@
+# Blender MTL File: 'None'
+# Material Count: 11
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.143089 0.143089 0.143089
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl lambert2
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186412 0.186412 0.186412
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.001
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.003
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.004
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.005
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.006
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.007
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.008
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
+
+newmtl lambert2.009
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.186400 0.186400 0.186400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Zahary\\Desktop\\BrickMedievalBlocks0129_1_S.jpg
